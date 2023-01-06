@@ -1,5 +1,5 @@
 # ListadoPersonas
-
+Proyecto utilizado para el curso "Angular: De cero a experto creando aplicaciones"
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 ## Development server
